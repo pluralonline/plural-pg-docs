@@ -16,6 +16,7 @@ This repository offers integration reference guide for Plural Payment Gateway
 9. [Cardless EMI Integration](https://github.com/pluralonline/plural-pg-docs/tree/main/Cardless%20EMI)
 10. [Tokenised Card Processing](https://github.com/pluralonline/plural-pg-docs/blob/main/Tokenization%20Payment%20Processing%20API.pdf)
 11. [Pay By Points Integration](https://github.com/pluralonline/plural-pg-docs/tree/main/PaybyPoints%20V2.1)
+12. [Pay By Link](https://github.com/pluralonline/plural-pg-docs/blob/main/Pay%20by%20Link.pdf)
 
 ---
 
