@@ -48,7 +48,7 @@ Implement webhooks to avoid call-back failures (drop offs due to connectivity/ne
 
 ### TLS Version
 
-We support TLS_v_1.2 and above which is strongly recommended. Kindly ensure you are using higher TLS versions to avoid any transaction failures
+We support `TLS_v_1.2` and above which is strongly recommended. Kindly ensure you are using higher TLS versions to avoid any transaction failures
 
 ### Note
 
