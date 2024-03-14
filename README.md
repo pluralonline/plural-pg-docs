@@ -1,6 +1,6 @@
 # Plural Payment Gateway Integration Document
 
-This repository offers a simple-to-use API reference guide to integrate with Plural Payment Gateway
+This repository offers integration reference guide for Plural Payment Gateway
 
 
 ## API Reference
@@ -61,6 +61,8 @@ We support `TLS_v_1.2` and above which is strongly recommended. Kindly ensure yo
 ## UAT Credentials
 
 ### API Credentials
+
+Kindly reach out to your Business SPOC for UAT API Credentials
 
 ### UAT Dasboard
 
