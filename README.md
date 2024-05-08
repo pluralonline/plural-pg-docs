@@ -26,8 +26,6 @@ This repository offers integration reference guide for Plural Payment Gateway
 
 This is a mandatory step to confirm the authenticity of the details returned to you on the return URL for successful payments.
 
-Require pinelabs sdk and call the `default` method on it. It takes 4 parameters which are as follows:
-
 1. Convert the response received on the return URL into a string (remove secret and secret type params)
 2. Sort the string alphabetically
 3. Hash the payload with your secret key using SHA256
